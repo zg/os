@@ -1,5 +1,7 @@
 # os
 
+[![ci](https://github.com/zg/os/actions/workflows/ci.yml/badge.svg)](https://github.com/zg/os/actions/workflows/ci.yml) [![Go Reference](https://pkg.go.dev/badge/github.com/zg/os.svg)](https://pkg.go.dev/github.com/zg/os) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 System software that manages resources and provides common services for
 programs — simulated in userspace, so the mechanisms are observable and
 testable.
